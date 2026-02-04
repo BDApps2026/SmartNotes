@@ -1,0 +1,7 @@
+{
+  "name": "Smart Notes (App)",
+  "description": "Pokročilá aplikace pro poznámky s AI funkcemi jako shrnutí, vylepšení textu a hlasové diktování.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
